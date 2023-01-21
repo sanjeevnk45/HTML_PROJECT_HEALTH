@@ -314,7 +314,7 @@ button {
      text-align: center;
 }
 .about_us a:hover{
-     background-color: red;
+     background-color: yellow;
      color: blue;
 }
 .about_bt{
