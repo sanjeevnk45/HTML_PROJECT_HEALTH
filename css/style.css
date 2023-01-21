@@ -314,8 +314,8 @@ button {
      text-align: center;
 }
 .about_us a:hover{
-     background-color: #ffffff;
-     color: #303036;
+     background-color: red;
+     color: blue;
 }
 .about_bt{
      width: 45%;
